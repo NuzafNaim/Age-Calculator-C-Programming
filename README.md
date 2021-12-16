@@ -6,20 +6,20 @@ Varsity Project Submission
 
 #PROBLEM DOMAIN & MOTIVATIONS
 
-•	Easily calculate age
+- Easily calculate age
 
 
 #OBJECTIVES/AIMS
 
-•	To make an Easy-to-use age calculator.
-•	Can be open from any computer.
+- To make an Easy-to-use age calculator.
+- Can be open from any computer.
 
 
 #TOOLS & TECHNOLOGIES
 
-•	C Programming
-•	Visual Studio Code
-•	Code blocks
+- C Programming
+- Visual Studio Code
+- Code blocks
 
 
 #CONCLUSION
