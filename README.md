@@ -1,8 +1,6 @@
 # Age-Calculator-C-Programming
 Varsity Project Submission 
 
-# PROJECT NAME: Age Calculator Using C Programming.
-
 
 ### PROBLEM DOMAIN & MOTIVATIONS
 
